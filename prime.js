@@ -11,7 +11,7 @@ while(b<=a){
     }
     b++;
 }
-if(count===1){//replace one with two;
+if(count===2){//replace one with two;
     ans = "it is a prime";
 }
 console.log(ans);
