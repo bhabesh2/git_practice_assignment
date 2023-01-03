@@ -3,7 +3,7 @@
 let string = "racecar";
 
 let reverse = "";
-for(let i=string.length-1; i>=1; i--) {//change i>=1 to i>=0;
+for(let i=string.length-1; i>=0; i--) {
 reverse += string[i];
 }
 
